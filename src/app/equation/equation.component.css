@@ -11,6 +11,8 @@ input {
     width: 20%;
     text-align: center;
     font-size: 96px;
+    margin-left: 1rem;
+    background-color: blanchedalmond;
 }
 
 input:focus {
@@ -24,4 +26,8 @@ input:focus {
     right: 0;
     text-align: center;
     font-size: 24px;
+}
+
+.close {
+    background-color: rgba(255, 235, 60, 0.3);
 }
