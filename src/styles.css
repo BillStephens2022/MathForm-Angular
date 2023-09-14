@@ -1,18 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 body {
- 
-    background-image: url('./assets/maths-ftr.jpeg');
-    background-color: rgba(0, 0, 0, 0.01);
-    background-size: cover;
-    background-repeat: repeat;
-    color: blanchedalmond;
+    background-color: silver;
+    padding: 0.25rem;
 }
 
-.overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* Adjust the opacity value as needed */
-  }
