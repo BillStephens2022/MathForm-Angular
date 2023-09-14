@@ -16,7 +16,7 @@ h1 {
 
 .overlay::before {
     content: "";
-    background-image: url('../assets/images/maths-ftr.jpeg');
+    background-image: url('./assets/images/maths-ftr.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     position: absolute;
