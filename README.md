@@ -5,7 +5,8 @@
   A fast past math game (simple addition) built using Angular.js and a Reactive Form.  Uses a custom validator in Angular app to check the response to see if close to the answer, incorrect, or if correct.  Keeps track of average solve time.
 
   Screenshot below:
-  
+
+  ![app screenshot](/src/assets/images/screenshot.png)
   
   ## Table of Contents
   
